@@ -1,0 +1,218 @@
+[
+  {
+    "university": "IUBAT - International University of Business Agriculture and Technology",
+    "course": "Computer Science and Engineering",
+    "description": "A comprehensive course in computer science, covering algorithms, data structures, software engineering, and more.",
+    "duration": "4 years",
+    "tuition_fee": "$5,000 per year",
+    "location": "Dhaka, Bangladesh",
+    "contact_email": "info@iubat.edu"
+  },
+  {
+    "university": "North South University",
+    "course": "Electrical and Electronic Engineering",
+    "description": "An advanced course in EEE focusing on circuit design, electronics, and power systems.",
+    "duration": "4 years",
+    "tuition_fee": "$6,000 per year",
+    "location": "Dhaka, Bangladesh",
+    "contact_email": "info@nsu.edu.bd"
+  },
+  {
+    "university": "BRAC University",
+    "course": "Business Administration",
+    "description": "An intensive business program focusing on marketing, finance, and management.",
+    "duration": "4 years",
+    "tuition_fee": "$4,800 per year",
+    "location": "Dhaka, Bangladesh",
+    "contact_email": "admissions@bracu.ac.bd"
+  },
+  {
+    "university": "Independent University, Bangladesh (IUB)",
+    "course": "Environmental Science",
+    "description": "A multidisciplinary course focusing on environmental challenges, sustainability, and climate change solutions.",
+    "duration": "4 years",
+    "tuition_fee": "$5,500 per year",
+    "location": "Dhaka, Bangladesh",
+    "contact_email": "info@iub.edu.bd"
+  },
+  {
+    "university": "United International University (UIU)",
+    "course": "Data Science and Artificial Intelligence",
+    "description": "An advanced course on data analysis, machine learning, and AI technologies.",
+    "duration": "4 years",
+    "tuition_fee": "$6,200 per year",
+    "location": "Dhaka, Bangladesh",
+    "contact_email": "admissions@uiu.ac.bd"
+  },
+  {
+    "university": "Ahsanullah University of Science and Technology (AUST)",
+    "course": "Civil Engineering",
+    "description": "A detailed course covering structural engineering, construction management, and materials science.",
+    "duration": "4 years",
+    "tuition_fee": "$5,000 per year",
+    "location": "Dhaka, Bangladesh",
+    "contact_email": "info@aust.edu"
+  },
+  {
+    "university": "American International University-Bangladesh (AIUB)",
+    "course": "Software Engineering",
+    "description": "A practical course designed for future software developers focusing on coding practices, UI/UX, and database management.",
+    "duration": "4 years",
+    "tuition_fee": "$5,800 per year",
+    "location": "Dhaka, Bangladesh",
+    "contact_email": "info@aiub.edu"
+  },
+  {
+    "university": "Daffodil International University",
+    "course": "Multimedia and Creative Technology",
+    "description": "A creative course designed for students interested in digital arts, animation, and multimedia technologies.",
+    "duration": "4 years",
+    "tuition_fee": "$4,200 per year",
+    "location": "Dhaka, Bangladesh",
+    "contact_email": "info@daffodilvarsity.edu.bd"
+  },
+  {
+    "university": "Stanford University",
+    "course": "Artificial Intelligence",
+    "description": "An advanced program covering deep learning, NLP, and AI applications.",
+    "duration": "4 years",
+    "tuition_fee": "$60,000 per year",
+    "location": "Stanford, USA",
+    "contact_email": "info@stanford.edu"
+  },
+  {
+    "university": "Harvard University",
+    "course": "Business Management",
+    "description": "A prestigious MBA program covering strategic management, finance, and marketing.",
+    "duration": "2 years",
+    "tuition_fee": "$75,000 per year",
+    "location": "Cambridge, USA",
+    "contact_email": "info@harvard.edu"
+  },
+  {
+    "university": "University of Oxford",
+    "course": "Law",
+    "description": "A rigorous law program covering international, criminal, and constitutional law.",
+    "duration": "3 years",
+    "tuition_fee": "$40,000 per year",
+    "location": "Oxford, UK",
+    "contact_email": "info@ox.ac.uk"
+  },
+  {
+    "university": "Massachusetts Institute of Technology (MIT)",
+    "course": "Computer Science",
+    "description": "A world-renowned program in computer science, focusing on algorithms, data structures, and systems engineering.",
+    "duration": "4 years",
+    "tuition_fee": "$55,000 per year",
+    "location": "Cambridge, USA",
+    "contact_email": "info@mit.edu"
+  },
+  {
+    "university": "National University of Singapore (NUS)",
+    "course": "Engineering Science",
+    "description": "An interdisciplinary course that blends engineering with practical applications.",
+    "duration": "4 years",
+    "tuition_fee": "$45,000 per year",
+    "location": "Singapore",
+    "contact_email": "info@nus.edu.sg"
+  },
+  {
+    "university": "University of Toronto",
+    "course": "Psychology",
+    "description": "A comprehensive study of human behavior, cognition, and neuroscience.",
+    "duration": "4 years",
+    "tuition_fee": "$50,000 per year",
+    "location": "Toronto, Canada",
+    "contact_email": "info@utoronto.ca"
+  },
+  {
+    "university": "University of California, Berkeley",
+    "course": "Computer Science",
+    "description": "A top-tier program in computer science covering algorithms, systems, and artificial intelligence.",
+    "duration": "4 years",
+    "tuition_fee": "$42,000 per year",
+    "location": "Berkeley, USA",
+    "contact_email": "admissions@berkeley.edu"
+  },
+  {
+    "university": "University of Melbourne",
+    "course": "Information Technology",
+    "description": "A comprehensive IT program focusing on software engineering, networking, and data systems.",
+    "duration": "3 years",
+    "tuition_fee": "$38,000 per year",
+    "location": "Melbourne, Australia",
+    "contact_email": "info@unimelb.edu.au"
+  },
+  {
+    "university": "University of Sydney",
+    "course": "Electrical Engineering",
+    "description": "A program offering deep knowledge in electronics, circuits, and signal processing.",
+    "duration": "4 years",
+    "tuition_fee": "$40,000 per year",
+    "location": "Sydney, Australia",
+    "contact_email": "admissions@usyd.edu.au"
+  },
+  {
+    "university": "University of Cambridge",
+    "course": "Mathematics",
+    "description": "A rigorous mathematics program, focusing on pure and applied mathematics.",
+    "duration": "3 years",
+    "tuition_fee": "$45,000 per year",
+    "location": "Cambridge, UK",
+    "contact_email": "info@cam.ac.uk"
+  },
+  {
+    "university": "California Institute of Technology (Caltech)",
+    "course": "Physics",
+    "description": "An advanced program focusing on quantum mechanics, astrophysics, and experimental physics.",
+    "duration": "4 years",
+    "tuition_fee": "$50,000 per year",
+    "location": "Pasadena, USA",
+    "contact_email": "admissions@caltech.edu"
+  },
+  {
+    "university": "University of Tokyo",
+    "course": "Mechanical Engineering",
+    "description": "A course that covers the design, analysis, and manufacturing of mechanical systems.",
+    "duration": "4 years",
+    "tuition_fee": "$8,000 per year",
+    "location": "Tokyo, Japan",
+    "contact_email": "info@utokyo.ac.jp"
+  },
+  {
+    "university": "University of Copenhagen",
+    "course": "Medicine",
+    "description": "A medical program that covers anatomy, physiology, and clinical practices.",
+    "duration": "5 years",
+    "tuition_fee": "$20,000 per year",
+    "location": "Copenhagen, Denmark",
+    "contact_email": "info@uoc.dk"
+  },
+  {
+    "university": "University of British Columbia",
+    "course": "Geology",
+    "description": "A program focused on earth science, including geology, geophysics, and environmental studies.",
+    "duration": "4 years",
+    "tuition_fee": "$33,000 per year",
+    "location": "Vancouver, Canada",
+    "contact_email": "info@ubc.ca"
+  },
+  {
+    "university": "University of Paris-Saclay",
+    "course": "Computer Science and Data Science",
+    "description": "A specialized program that covers big data, machine learning, and programming for data-driven industries.",
+    "duration": "3 years",
+    "tuition_fee": "$12,000 per year",
+    "location": "Paris, France",
+    "contact_email": "info@universite-paris-saclay.fr"
+  },
+  {
+    "university": "University of Cape Town",
+    "course": "Architecture",
+    "description": "A comprehensive program in architecture, including design, urban planning, and sustainable construction.",
+    "duration": "5 years",
+    "tuition_fee": "$15,000 per year",
+    "location": "Cape Town, South Africa",
+    "contact_email": "admissions@uct.ac.za"
+  }
+]
