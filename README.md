@@ -1,16 +1,30 @@
-# ui_state_management_task
+# UI & State Management Task
 
-A new Flutter project.
+Developed a simple Flutter app with two screens using a state management approach (Provider)
 
-## Getting Started
+
+
+https://github.com/user-attachments/assets/0f989aad-263e-4f49-85e9-aa91e88e9f2f
+
+
+
+## OverView
 
 This project is a starting point for a Flutter application.
+○ Follows clean architecture principles.
 
-A few resources to get you started if this is your first Flutter project:
+○ Proper use of Dart models, providers.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+○ Code is modular, easy to read, and well-structured.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+○ State management is implemented properly.
+
+○ Dependency injection is used for better scalability.
+
+○ Error handling is implemented to handle failures gracefully.
+
+○ Screens are responsive on different devices.
+
+○ Smooth navigation & animations are implemented.
+
+○ UI follows material design guidelines.
